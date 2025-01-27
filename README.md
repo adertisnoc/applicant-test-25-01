@@ -1,4 +1,4 @@
-# Konténerizált PHP alkalmazás és MariaDB backend beállítása frontend proxyn keresztül.
+# Konténerizált PHP alkalmazás és MariaDB backend beállítása frontend proxyn keresztül
 
 ## Feladat leírása
 
